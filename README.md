@@ -31,7 +31,7 @@ This repository contains splash images I created for IntelliJ IDEA, usually in a
 3. In the terminal, enter following commands:
     1. `jar -uvf app.jar idea_community_logo.png`
     2. `jar -uvf app.jar idea_community_logo@2x.png`
-4. After you received `adding: idea_community_logo.png(in = 1451166) (out= 1450875)(deflated 0%)` and `adding: idea_community_logo@2x.png(in = 5464859) (out= 5465860)(deflated 0%)`, close the window.
+4. After you received `adding: idea_community_logo.png(in = ***) (out= ***)(deflated 0%)` and `adding: idea_community_logo@2x.png(in = ***) (out= ***)(deflated 0%)`, close the window.
 ###### IV. Replace it......sneakily!
 1. Copy `app.jar`.
 2. Go to `C:\Users\xxx\AppData\Local\JetBrains\IntelliJIdea****.**\lib\`, paste `app.jar` and choose "replace".
