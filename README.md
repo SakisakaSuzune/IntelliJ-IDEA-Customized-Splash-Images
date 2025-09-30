@@ -67,7 +67,7 @@ Remember you can always change the size of the image if it doesn't provide a sat
 3. 在终端中输入以下命令：
 4. `jar -uvf app.jar idea_community_logo.png`
 5. `jar -uvf app.jar idea_community_logo@2x.png`
-6. 收到 `adding: idea_community_logo.png(in = 1451166) (out= 1450875)(deflated 0%)` 和 `adding: idea_community_logo@2x.png(in = 5464859) (out= 5465860)(de​​flated 0%)` 后，关闭窗口。
+6. 收到 `adding: idea_community_logo.png(in = ***) (out= ***)(deflated 0%)` 和 `adding: idea_community_logo@2x.png(in = ***) (out= ***)(de​​flated 0%)` 后，关闭窗口。
 ###### IV. 悄悄地换掉它！
 1. 复制 `app.jar`。
 2. 前往 `C:\Users\xxx\AppData\Local\JetBrains\IntelliJIdea****.**\lib\`，粘贴 `app.jar` 并选择“替换”。
