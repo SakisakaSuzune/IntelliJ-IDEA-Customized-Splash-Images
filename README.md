@@ -31,7 +31,7 @@ This repository contains splash images I created for IntelliJ IDEA, usually in a
 3. In the terminal, enter following commands:
     1. `jar -uvf app.jar idea_community_logo.png`
     2. `jar -uvf app.jar idea_community_logo@2x.png`
-4. After you received `adding: idea_community_logo.png(in = 1451166) (out= 1450875)(deflated 0%)` and `adding: idea_community_logo@2x.png(in = 5464859) (out= 5465860)(deflated 0%)`, close the window.
+4. After you received `adding: idea_community_logo.png(in = ***) (out= ***)(deflated 0%)` and `adding: idea_community_logo@2x.png(in = ***) (out= ***)(deflated 0%)`, close the window.
 ###### IV. Replace it......sneakily!
 1. Copy `app.jar`.
 2. Go to `C:\Users\xxx\AppData\Local\JetBrains\IntelliJIdea****.**\lib\`, paste `app.jar` and choose "replace".
@@ -67,7 +67,7 @@ Remember you can always change the size of the image if it doesn't provide a sat
 3. 在终端中输入以下命令：
 4. `jar -uvf app.jar idea_community_logo.png`
 5. `jar -uvf app.jar idea_community_logo@2x.png`
-6. 收到 `adding: idea_community_logo.png(in = 1451166) (out= 1450875)(deflated 0%)` 和 `adding: idea_community_logo@2x.png(in = 5464859) (out= 5465860)(de​​flated 0%)` 后，关闭窗口。
+6. 收到 `adding: idea_community_logo.png(in = ***) (out= ***)(deflated 0%)` 和 `adding: idea_community_logo@2x.png(in = ***) (out= ***)(de​​flated 0%)` 后，关闭窗口。
 ###### IV. 悄悄地换掉它！
 1. 复制 `app.jar`。
 2. 前往 `C:\Users\xxx\AppData\Local\JetBrains\IntelliJIdea****.**\lib\`，粘贴 `app.jar` 并选择“替换”。
